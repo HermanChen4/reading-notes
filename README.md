@@ -1,6 +1,5 @@
 ## Code Fellows 102 notes
 ![3904529](https://user-images.githubusercontent.com/106101235/169898511-08d2bb3c-57d8-49dc-be08-358037af92e1.png)
-!pic/pic1_50.png =100x20
 
 
 Hi my name is Herman Chen and I'm a new developer in training, here is what I've learned so far. 

@@ -1,4 +1,5 @@
 ## Code Fellows 102 notes
+![3904529](https://user-images.githubusercontent.com/106101235/169898511-08d2bb3c-57d8-49dc-be08-358037af92e1.png)
 Hi my name is Herman Chen and I'm a new developer in training, here is what I've learned so far. 
 If you are curious about learning about my progress here is my GitHub profile *https://github.com/HermanChen4/reading-notes*
 ### My personal definition of a **Growth Mindset**

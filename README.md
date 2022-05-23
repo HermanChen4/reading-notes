@@ -7,4 +7,3 @@ A growth mindset is a strong mental state to view your progress as always moving
 1. Don't be too harsh on yourself 
 2. Learn from others and don't envy
 3. Challeges will come but perseverance is key 
-theme: jekyll-theme-architect

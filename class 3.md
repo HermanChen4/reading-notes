@@ -10,4 +10,8 @@ Github is not a git but rather an online place to share and store code. Github w
 
 A repository is a collection of files that you've told git to pay attention to. repositories can live on both github and on your computer.
 
-
+Steps to keep in mind
+- git status
+- git add
+- git commit -m "update caption" 
+- git push origin main

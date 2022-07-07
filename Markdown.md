@@ -2,7 +2,7 @@
 ![3904529](https://user-images.githubusercontent.com/106101235/169898511-08d2bb3c-57d8-49dc-be08-358037af92e1.png)
 
 
-### Markdown**
+### Markdown
 Markdown is a shorthand way make simple code do what you want. Some key items of markdown to remember are, 
 - You can create headings by using a different number of #'s from 1-6
 - You can italicize words by adding asterisks ex. word *word* 

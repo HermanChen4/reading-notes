@@ -7,4 +7,13 @@ If you are curious about learning about my progress here is my [*GitHub profile*
 
 ## Code 102 notes
 - [A Growth Mindset](https://github.com/HermanChen4/reading-notes/blob/main/A%20Growth%20Mindset.md)
-- [Markdown](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 1](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 2](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 3](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 4](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 5](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 6](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 7](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+- [Lesson 8](https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md)
+
+## Code 201 notes

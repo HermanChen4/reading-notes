@@ -15,3 +15,6 @@ Steps to keep in mind
 - git add
 - git commit -m "update caption" 
 - git push origin main
+
+- git pull origin main 
+^ this will bring github files down to your local computer

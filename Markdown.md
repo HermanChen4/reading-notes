@@ -3,7 +3,7 @@
 
 
 ### Markdown
-Markdown is a shorthand way make simple code do what you want. Some key items of markdown to remember are, 
+Markdown is a shorthand way make simple code do what you want. Some key items of markdown to remember are:
 - You can create headings by using a different number of #'s from 1-6
 - You can italicize words by adding asterisks ex. word *word* 
 - You can bolden a word by adding 2 asterisks ex. word **word**

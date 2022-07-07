@@ -6,4 +6,5 @@ Hi my name is Herman Chen and I'm a new developer in training, here is what I've
 If you are curious about learning about my progress here is my [*GitHub profile*](https://github.com/HermanChen4)
 
 ## Code 102 notes
+- A Growth Mindset https://github.com/HermanChen4/reading-notes/blob/main/A%20Growth%20Mindset.md
 - Markdown https://github.com/HermanChen4/reading-notes/blob/main/Markdown.md

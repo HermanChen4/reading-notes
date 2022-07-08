@@ -8,9 +8,9 @@ Wireframing- is a way for coders and web developers to organize the bones of the
 
 HTML- hypertext markup language is the standard language for creating a website, it helps build the structure of the website. Identified on a document by the starting code line <!DOCTYPE html>
 
-Some HTML key terms to use, (make sure to close the tags as well by adding a </> backslash)
-(heading) <head> 
-<nav>  (navigation)
-<href> (adding a link)
-<body> (body of the website)
-<p> (adding text)
+Some HTML key terms to use indicated by <>, (make sure to close the tags as well by adding a </> backslash)
+<head (heading
+<nav  (navigation)
+<href (adding a link)
+<body (body of the website)
+<p (adding text)

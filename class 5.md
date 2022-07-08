@@ -8,10 +8,13 @@
 
 - A common way to use CSS is to apply it externally, by creating a seperate file, usually by the name style.css which you must specify and reference in your main index.html file. 
 
+- we use curly brackets to indicate the modification {}
+
 - To modify an element in your index you must specify what is being modified, and give the property a value. ex. I want my heading to be a specific color:
 header {
   margin: 0px; 
   padding: 5px;
   background-color: white;
-  text-align: center; 
+  text-align: center;
+  }
  Here I made the background color white. The property is "header" and the value is "white" 

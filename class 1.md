@@ -14,8 +14,3 @@ Markdown is a shorthand way make simple code do what you want. Some key items of
 1. apples
 2. bananas
 3. oranges 
-
-> apples
-+ apples
-= apples
-@ apples

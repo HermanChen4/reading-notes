@@ -21,5 +21,9 @@ The different types of loops are
 > do
   > statement
 > while (condition);
+
+- A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
+> while (condition)
+  statement
   
   

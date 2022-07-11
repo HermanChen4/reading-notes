@@ -7,8 +7,8 @@ If you are curious about learning about my progress here is my [*GitHub profile*
 
 ## Code 102 notes
 - [A Growth Mindset](growthmindset.md)
-- [Lesson 1](class1.md)
-- [Lesson 2](class2.md)
+- [Lesson 1](class 1.md)
+- [Lesson 2](/class2.md)
 - [Lesson 3](class3.md)
 - [Lesson 4](class4.md)
 - [Lesson 5](class5.md)

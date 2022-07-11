@@ -11,11 +11,15 @@ Two of the more common operators are *Assignment operators* and *Comparison oper
 - An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = f() is an assignment expression that assigns the value of f() to x.
 - An comparison operator compares the opperend to the value produced and if the statement is true another result is produced.
 
-##Loops 
+## Loops 
 Loops are an essential way to make coding easier, by rerunning code and/or making code essentially "loop".
 The different types of loops are 
--A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
+- A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
  > for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
+- The do...while statement repeats until a specified condition evaluates to false. A do...while statement looks as follows:
+> do
+  > statement
+> while (condition);
   
   

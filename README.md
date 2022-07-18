@@ -5,7 +5,7 @@
 Hi my name is Herman Chen and I'm a new developer in training, here is what I've learned so far. 
 If you are curious about learning about my progress here is my [*GitHub profile*](https://github.com/HermanChen4)
 
-## Code 102 notes
+## Code 102 Reading Notes
 - [Lesson 1](class1.md)
 - [Lesson 2](class2.md)
 - [Lesson 3](class3.md)
@@ -15,4 +15,4 @@ If you are curious about learning about my progress here is my [*GitHub profile*
 - [Lesson 7](class7.md)
 - [Lesson 8](class8.md)
 
-## Code 201 notes
+## Code 201 Reading Notes

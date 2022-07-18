@@ -16,3 +16,8 @@ If you are curious about learning about my progress here is my [*GitHub profile*
 - [Lesson 8](class8.md)
 
 ## Code 201 Reading Notes
+- [Lesson 1]()
+- [Lesson 2]()
+- [Lesson 3]()
+- [Lesson 4]()
+- [Lesson 5]()
